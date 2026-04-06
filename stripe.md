@@ -1,0 +1,1 @@
+Use Stripe for subscriptions.
